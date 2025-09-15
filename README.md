@@ -6,3 +6,10 @@ I found this article interesting because the author has some thoughts on "how pe
 
 ##Vaish's thoughts 
 *From my perspective, I agree that LLMs go far beyond autocomplete into deeper code collaboration, but it makes me wonder how we’ll measure their true impact if surveys keep blurring the difference.*
+
+
+### Repo Sync Note
+All contributions have been merged successfully.  
+This file is now up to date with both my edits and my classmate’s edits.  
+
+— Leo Qian (zq2155)
